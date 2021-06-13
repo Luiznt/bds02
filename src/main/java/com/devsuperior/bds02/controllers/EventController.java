@@ -16,7 +16,7 @@ import com.devsuperior.bds02.services.EventService;
 @RestController
 @RequestMapping(value = "/events")
 public class EventController {
-/*
+
 		@Autowired
 		private EventService service;
 			
@@ -32,6 +32,6 @@ public class EventController {
 			dto = service.update(id, dto);
 			return ResponseEntity.ok().body(dto);
 		}
-*/
+
 
 }

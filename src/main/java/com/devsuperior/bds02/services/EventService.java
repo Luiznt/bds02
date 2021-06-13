@@ -18,7 +18,7 @@ import com.devsuperior.bds02.services.exceptions.ResourceNotFoundException;
 
 @Service
 public class EventService {
-/*
+
 	@Autowired
 	private EventRepository repository;
 
@@ -48,5 +48,5 @@ public class EventService {
 		}
 
 	}
-*/
+
 }
